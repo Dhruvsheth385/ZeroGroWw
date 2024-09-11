@@ -8,3 +8,5 @@ ZeroGroWw is a stock trading application, built using the MERN stack (MongoDB, E
 - Real-time notifications: Instant alerts for significant price changes or executed trades.
 
 By utilizing the MERN stack, the app is expected to be highly responsive, scalable, and capable of handling real-time data efficiently.
+
+The project was built by Yuv Shah, Varun Solanki and Dhruv Sheth
