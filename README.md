@@ -1,8 +1,3 @@
-Here's a sample `README.md` file for your GitHub repository:
-
-```markdown
-# MERN Finance Dashboard App with Machine Learning Predictions
-
 This project is a Finance Dashboard application built using the MERN stack with integrated machine learning predictions. The application provides a visually rich and interactive user experience with insights into financial data.
 
 ## Table of Contents
