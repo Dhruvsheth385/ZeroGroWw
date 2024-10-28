@@ -46,43 +46,8 @@ This project is a Finance Dashboard application built using the MERN stack with 
 
    Install dependencies:
 
-Frontend:
+### Frontend
 
-bash
-Copy code
+```bash
 cd client
 npm install
-Backend:
-
-bash
-Copy code
-cd server
-npm install
-Set up environment variables:
-
-Create a .env file in the server directory and add your MongoDB URI and any other necessary environment variables.
-
-Run the application:
-
-Backend:
-
-bash
-Copy code
-cd server
-npm start
-Frontend:
-
-bash
-Copy code
-cd client
-npm run dev
-The application should now be accessible on http://localhost:3000.
-
-Usage
-Navigate to http://localhost:3000 to access the Finance Dashboard.
-Use the dashboard to view, filter, and predict financial data.
-Contributing
-Contributions are welcome! Please fork this repository and create a pull request if you'd like to contribute.
-
-License
-This project is licensed under the MIT License.
