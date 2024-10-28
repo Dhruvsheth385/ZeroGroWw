@@ -44,10 +44,14 @@ This project is a Finance Dashboard application built using the MERN stack with 
    git clone https://github.com/Dhruvsheth385/ZeroGroWw.git
    cd client
 
-   Install dependencies:
 
-### Frontend
+2. **Install dependencies:**
+### .Frontend
 
 ```bash
 cd client
 npm install
+
+
+
+
