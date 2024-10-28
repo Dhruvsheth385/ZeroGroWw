@@ -39,8 +39,8 @@ This project is a Finance Dashboard application built using the MERN stack with 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/finance-dashboard.git
-   cd finance-dashboard
+   git clone https://github.com/Dhruvsheth385/ZeroGroWw.git
+   cd src
    ```
 
 2. **Install dependencies:**
